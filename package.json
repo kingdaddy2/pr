@@ -1,0 +1,30 @@
+{
+  "name": "fake-discord-nitro-generator",
+  "version": "1.0.0",
+  "description": "fakes discord nitro sses",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "mime": "^2.5.2",
+    "node-html-to-image": "^3.1.0",
+    "puppeteer": "^9.0.0",
+    "eris": "^0.15.0",
+    "fs": "^0.0.2",
+    "body-parser": "^1.19.0",
+    "mongoose": "^5.12.5",
+    "random-id-generator": "*",
+    "ms": "^2.1.3",
+    "pretty-ms": "^7.0.1",
+    "node-fetch": "^2.6.1",
+    "eris-collector": "^1.0.1",
+    "image-to-base64": "^2.2.0",
+    "got": "*",
+    "child_process": "^1.0.2"
+  }
+}
